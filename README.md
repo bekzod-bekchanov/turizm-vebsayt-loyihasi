@@ -16,4 +16,4 @@ Sarguzasht - bu dunyoning eng qiziqarli yo‘nalishlarini o‘rganish va ajoyib 
 - Haqida: Sarguzasht loyihasi, uning vazifasi va ortidagi jamoa haqida ko‘proq ma’lumot oling.
 
 ## 🌠 Baholang
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+Bu loyiha sizdan ⭐️ talab qiladi. Yulduz qoldirishni unutmang ⭐️
