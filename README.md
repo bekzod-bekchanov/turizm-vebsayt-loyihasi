@@ -1,40 +1,19 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232290391-f635a7fa-851f-463d-9339-bb359acef269.png)
-
 # ⛰ Tourism-website
-ADVENTURE - "Where Every Journey Begins"
+SAYOHAT - "Har bir sayohat shu yerdan boshlanadi"
 
-## 📋 About
- -  At Adventure, we're passionate about travel and adventure. Our mission is to bring the world's wonders closer to you and help you make the most of your travel experiences.
- -  We believe that every journey is an opportunity to learn, grow, and connect with people and places around the globe.
- -  This is a simple website
- -  Pure HTML, CSS, JavaScript used
- 
- ## 🔗 To see the project
-[Tourism website](https://simple-tourism-organization.netlify.app/)
+## 📋 Sayt haqida
+ -  Sarguzashtlarda biz sayohat va sarguzashtlarga ishtiyoqmandmiz. Bizning vazifamiz dunyo mo‘jizalarini sizga yaqinlashtirish va sayohat tajribangizdan unumli foydalanishga yordam berishdir.
+ -  Biz har bir sayohat butun dunyo bo‘ylab odamlar va joylar bilan o‘rganish, o‘sish va aloqa o‘rnatish imkoniyati ekanligiga ishonamiz.
+ -  Bu oddiy veb-sayt
+ -  Sof HTML, CSS, JavaScript ishlatilgan
 
+## ⛰ Sarguzasht - Xususiyatlari 
+Sarguzasht - bu dunyoning eng qiziqarli yo‘nalishlarini o‘rganish va ajoyib tadbirlar, sayohatlar va yashirin javohirlarni kashf etish uchun sizning pasportingizdir. Bizning platformamiz sizni ilhomlantirish va keyingi unutilmas sayohatingizni rejalashtirishda yordam berish uchun mo‘ljallangan.
+- Home: Welcome to Adventure. Dunyo bo‘ylab qiziqarli rasmlar va hikoyalardan ilhomlaning.
+- Tadbirlar: Sevimli sayohat manzillaringizda bo‘lib o‘tadigan tadbirlar va festivallar haqida xabardor bo‘lib turing.
+- Kezing: Tanlangan sayohat qo‘llanmalari, diqqatga sazovor joylar va sayohatchi maslahatlari to‘plamimizga chuqur kirib boring.
+- Sayohatlar: Qiziqishlaringiz va byudjetingizga mos keladigan mukammal gidli sayohatlarni toping.
+- Haqida: Sarguzasht loyihasi, uning vazifasi va ortidagi jamoa haqida ko‘proq ma’lumot oling.
 
-## 👓 Preview
-<img src= "https://github.com/Shreyashkshirsagar/tourism-website/assets/109781537/42722076-97a7-41ae-b742-7a3981b1f2b8" width = "75%">
-<img src= "https://github.com/Shreyashkshirsagar/tourism-website/assets/109781537/50df7e06-ef9b-4669-b002-a54c0ead746b" width="75%">
-<img src= "https://github.com/Shreyashkshirsagar/tourism-website/assets/109781537/be96ca54-6442-48b1-927e-160c64e373b3" width = "75%">
-
-## ⛰ Adventure - Features 
-Adventure is your passport to explore the world's most exciting destinations and discover amazing events, tours, and hidden gems. Our platform is designed to inspire and assist you in planning your next unforgettable journey.
-- Home: Welcome to Adventure. Get inspired with captivating images and stories from around the globe.
-- Events: Stay updated with upcoming events and festivals in your favorite travel destinations.
-- Explore: Dive deep into our collection of curated travel guides, destination highlights, and traveler tips.
-- Tours: Find the perfect guided tours that match your interests and budget.
-- About: Learn more about the Adventure project, its mission, and the team behind it.
-
- 
-## 👨‍💻 Contributing
-We welcome contributions from the open-source community.
-Contributions make the open source community such an amazing place to learn, inspire, and create.
-Any contributions you make are truly appreciated.
-Check out our [contribution guidelines](https://github.com/PritamSarbajna/tourism-website/blob/main/CONTRIBUTING.md) for more information.
-
-## 🛡️ License
-Tourism-Website is licensed under the [MIT License](https://github.com/PritamSarbajna/tourism-website/blob/main/LICENSE) - see the LICENSE file for details.
-
-## 🙏 Support
+## 🌠 Baholang
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
